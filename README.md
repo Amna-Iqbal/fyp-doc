@@ -2,7 +2,7 @@
 
 This repository contains the showcase documentation for my final year project, **StudyCircle**. This is a comprehensive, full-stack web application designed and built as part of my Computer Science degree. The source code is kept private to maintain academic integrity, but this document provides a thorough overview of the project's features, architecture, and the engineering process behind it.
 
-**[▶️ Watch the Video Showcase on YouTube](https://www.youtube.com/watch?v=Qa97J0gUgu4)**
+**[▶️ Watch the Video Showcase](https://vimeo.com/1104307988?share=copy)**
 
 ---
 
